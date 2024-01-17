@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+
+!/4-2/GTN-SIGIR2022/code/*.py
+!/4-2/igcn_cf/hyperparameter/*.py
